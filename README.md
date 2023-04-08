@@ -1,6 +1,8 @@
 # Random Joke Generator
 
-Basic Webiste that generates random chuck norris jokes using chuck norris jokes api, <a href = "https://api.chucknorris.io"> source </a>, this website is build to demonstrate
+<a href = "https://lemn09.github.io/Random-Joke-Generator/" target = "__blank" rel = "noopener">Webiste</a>
+
+Basic Webiste that generates random chuck norris jokes using chuck norris jokes api, <a href = "https://api.chucknorris.io" target = "__blank" rel = "noopener"> source </a>, this website is build to demonstrate
 
  The website generates random Chuck Norris jokes using the Chuck Norris API and is built using HTML, CSS, and vanilla JavaScript. HTTP requests are made using the XMLHttpRequest (XHR) object in JavaScript, also known as AJAX. The website has been built using HTML, CSS, and vanilla JavaScript. The user interface is simple and easy to use, allowing users to generate new jokes with just a single click. The website makes use of the asynchronous nature of JavaScript to efficiently fetch data from the API without blocking the user interface. Overall, this website provides a fun and engaging way for users to enjoy Chuck Norris jokes.
 
